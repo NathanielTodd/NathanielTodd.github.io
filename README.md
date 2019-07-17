@@ -1,8 +1,8 @@
 # Nathaniel Todd Webpage
 
-Welcome to my webpage github. It is based off of the Freelancer free bootstrap template. You can find more information below
+Welcome to my webpage repository. It is based off of the Freelancer free bootstrap template. You can find more information below:
 
-##[Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
+## [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
 
 ### About
 
